@@ -6,7 +6,4 @@ function getRandomElementOf(array) {
     return array[Math.floor(Math.random() * array.length)];
 }
 
-console.log(getRandomElementOf(nouns));
-console.log(adjectives[0] + nouns[0]);
-
 console.log(getRandomElementOf(adjectives), getRandomElementOf(nouns));
