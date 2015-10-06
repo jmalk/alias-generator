@@ -1,5 +1,5 @@
-var adjectives = ['flawless'];
-var nouns = ['cowboy'];
+var adjectives = ['flawless', 'silent'];
+var nouns = ['cowboy', 'cartographer'];
 
 function getRandomElementOf(array) {
     'use strict';
@@ -8,3 +8,5 @@ function getRandomElementOf(array) {
 
 console.log(getRandomElementOf(nouns));
 console.log(adjectives[0] + nouns[0]);
+
+console.log(getRandomElementOf(adjectives), getRandomElementOf(nouns));
