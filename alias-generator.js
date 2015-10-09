@@ -1,5 +1,22 @@
-var adjectives = ['flawless', 'silent'];
-var nouns = ['cowboy', 'cartographer'];
+var adjectives = [
+    'flawless',
+    'silent',
+    'magnificent',
+    'outrageous',
+    'colorful'
+];
+
+var nouns = [
+    'cowboy',
+    'cartographer',
+    'fox',
+    'greyhound',
+    'otter',
+    'parrot',
+    'eagle',
+    'butterfly',
+    'haddock'
+];
 
 function getRandomElementOf(array) {
     'use strict';
