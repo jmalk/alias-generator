@@ -3,7 +3,13 @@ var adjectives = [
     'silent',
     'magnificent',
     'outrageous',
-    'colorful'
+    'colorful',
+    'red',
+    'orange',
+    'yellow',
+    'green',
+    'blue',
+    'violent'
 ];
 
 var nouns = [
@@ -23,4 +29,4 @@ function getRandomElementOf(array) {
     return array[Math.floor(Math.random() * array.length)];
 }
 
-console.log(getRandomElementOf(adjectives), getRandomElementOf(nouns));
+console.log(getRandomElementOf(adjectives) + getRandomElementOf(nouns));
