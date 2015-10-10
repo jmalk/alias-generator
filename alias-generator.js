@@ -29,7 +29,7 @@ function getRandomElementOf(array) {
     return array[Math.floor(Math.random() * array.length)];
 }
 
-function logUserName() {
+function logAlias() {
     'use strict';
     console.log(getRandomElementOf(adjectives) + getRandomElementOf(nouns));
 }
