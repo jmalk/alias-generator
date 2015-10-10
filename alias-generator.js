@@ -29,7 +29,13 @@ function getRandomElementOf(array) {
     return array[Math.floor(Math.random() * array.length)];
 }
 
-function logAlias() {
+function makeAlias() {
     'use strict';
-    console.log(getRandomElementOf(adjectives) + getRandomElementOf(nouns));
+    return getRandomElementOf(adjectives) + getRandomElementOf(nouns);
+}
+
+function printAliasToDocument() {
+    'use strict';
+    var aliasParagraph = document.getElementById("alias");
+    aliasParagraph.innerHTML = makeAlias();
 }
