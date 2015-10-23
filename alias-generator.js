@@ -16,15 +16,15 @@ var adjectives = [
 ];
 
 var nouns = [
+    'butterfly',
     'cowboy',
     'cartographer',
+    'eagle',
     'fox',
     'greyhound',
+    'haddock',
     'otter',
-    'parrot',
-    'eagle',
-    'butterfly',
-    'haddock'
+    'parrot'
 ];
 
 function getRandomElementOf(array) {
