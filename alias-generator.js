@@ -16,6 +16,7 @@ var adjectives = [
 ];
 
 var nouns = [
+    'alien',
     'butterfly',
     'cowboy',
     'cartographer',
@@ -24,7 +25,8 @@ var nouns = [
     'greyhound',
     'haddock',
     'otter',
-    'parrot'
+    'parrot',
+    'zebra'
 ];
 
 function getRandomElementOf(array) {
