@@ -1,6 +1,9 @@
 var adjectives = [
+    'disgraced',
     'flawless',
+    'furious',
     'silent',
+    'stern',
     'magnificent',
     'outrageous',
     'colorful',
