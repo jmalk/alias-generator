@@ -1,18 +1,27 @@
 var adjectives = [
+    'ambivalent',
     'blue',
     'colorful',
+    'curious',
     'disgraced',
+    'enormous',
     'flawless',
     'furious',
     'green',
+    'happy',
+    'indignant',
+    'jolly',
+    'killer',
     'magnificent',
+    'miniature',
     'orange',
     'outrageous',
     'red',
     'silent',
     'stern',
     'violent',
-    'yellow'
+    'yellow',
+    'zen'
 ];
 
 var nouns = [
