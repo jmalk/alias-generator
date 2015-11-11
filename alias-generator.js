@@ -29,12 +29,20 @@ var nouns = [
     'butterfly',
     'cowboy',
     'cartographer',
+    'cyborg',
+    'dingo',
     'eagle',
     'fox',
     'greyhound',
     'haddock',
+    'martian',
+    'nanobot',
     'otter',
     'parrot',
+    'robot',
+    'spy',
+    'warrior',
+    'wizard',
     'zebra'
 ];
 
