@@ -1,13 +1,11 @@
 var adjectives = [
     'ambivalent',
     'blue',
-    'colorful',
     'curious',
     'disgraced',
     'enormous',
     'flawless',
     'furious',
-    'green',
     'happy',
     'indignant',
     'jolly',
@@ -16,11 +14,9 @@ var adjectives = [
     'miniature',
     'orange',
     'outrageous',
-    'red',
     'silent',
     'stern',
     'violent',
-    'yellow',
     'zen'
 ];
 
